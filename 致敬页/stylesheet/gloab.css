@@ -1,0 +1,40 @@
+#main {
+  background-color: #EEEEEE;
+}
+#title {
+  text-align: center;
+}
+.title-desc {
+  text-align: center;
+}
+#img_div {
+  width: 95%;
+  background-color: #fff;
+  text-align: center;
+  margin: 0 auto;
+}
+#image {
+  width: 80%;
+}
+#img_caption {
+  font-size: 12px;
+  padding-bottom: 15px;
+}
+#tribute_info {
+  width: 55%;
+  margin: 25px auto;
+}
+#tribute_info_title {
+  text-align: center;
+}
+.tribute-info-item {
+  margin-top: 15px;
+}
+#tribute_summary {
+  width: 55%;
+  margin: 0 auto;
+}
+#footer {
+  text-align: center;
+  padding-bottom: 15px;
+}
